@@ -1,0 +1,3 @@
+# example #
+
+This is the example module. It provides...
